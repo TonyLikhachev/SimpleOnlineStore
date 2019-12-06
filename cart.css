@@ -1,0 +1,70 @@
+body {
+    font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+    color: black;
+    background-color: rgb(73, 107, 119);
+}
+.header-background{
+    background-color: rgb(119, 176, 196);
+}
+.header-logo {
+    box-sizing: border-box;
+    display: inline-block;
+}
+.header-name {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    display: inline-block;
+    margin: 10px;
+}
+.nav-icons {
+    background-color: rgb(161, 200, 216); 
+    margin: 10px
+    
+}
+
+.main-menu {
+ height: 300px;
+ width: 100%;
+ color: grey;
+ background-color: lightblue;
+ display: flex;
+  }
+
+.main-cart {
+    width: 50%;
+    border: 1px;
+}
+  #priceCart{
+    margin: 20px;
+ 
+}
+ #shopCart {
+    margin: 20px;
+    
+    
+  
+} 
+
+  /* #priceCart{
+    overflow: hidden;
+    margin: auto;
+    position: relative;
+    height: 300px;
+    display: inline-block;
+}
+ #shopCart {
+    overflow: relative;
+    margin: auto;
+    height: 300px;
+    display: inline-block;
+  
+}  */
+
+.contacts{
+    font-family: cursive;
+    font-size: 12px;
+    color: rgb(124, 122, 122);
+    text-align: end;
+    margin-right: 10%;
+}
